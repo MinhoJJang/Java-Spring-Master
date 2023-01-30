@@ -16,3 +16,4 @@ public class Robot{
 	public int[][] DIRECTION_OFFSETS = 
 	{
 		{0, -1},		// 
+	}}
