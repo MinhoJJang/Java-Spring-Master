@@ -8,7 +8,6 @@ public class StudentTest {
 		studentLee.studentName = "이순신";
 		studentLee.address = "서울";
 		
-		
 		studentLee.showStudentInfo();
 		
 		Student studentKim = new Student();

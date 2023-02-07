@@ -16,7 +16,6 @@ public class Student {
 		math = new Subject();
 	}
 	
-	
 	public void setKoreaSubject(String name, int score) {
 		korea.subjectName = name;
 		korea.score = score;
