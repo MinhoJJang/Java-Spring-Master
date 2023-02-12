@@ -25,8 +25,7 @@ public class MakeReport {
 	}
 	
 	private void makeFooter()
-	{
-		
+	{	
 		buffer.append(line);
 	}
 	

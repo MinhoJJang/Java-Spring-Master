@@ -9,9 +9,6 @@ public class BirthDayTest {
 		date.setMonth(77);
 		date.setDay(100);
 		
-		date.showDate();
-		
-		
+		date.showDate();	
 	}
-
 }
